@@ -1,0 +1,3 @@
+Paste into C:\Users\*Username*\AppData\LocalLow\Unity\com_proximabeta_NIKKE\
+The parent folder doesn't seem to change it's name, but the folder that is contained in there does.
+You have to search for the parent folder and rename the one according to the foldername that is currently used.
