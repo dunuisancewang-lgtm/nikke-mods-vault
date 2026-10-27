@@ -1,0 +1,2593 @@
+[
+  {
+    "idx": 0,
+    "kind": "spine",
+    "slug": "m000_c810_01_aim",
+    "cCode": "c810_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/2B - Thinner Thong + Smaller Ass + Cameltoe_Credits to Oracle Alice/c810_01_aim_El-Caudillo&OrcAlice_2B-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/2B - Thinner Thong + Smaller Ass + Cameltoe_Credits to Oracle Alice",
+    "fileName": "c810_01_aim_El-Caudillo&OrcAlice_2B-Lewd",
+    "skel": "web_l2d/m000_c810_01_aim/c810_aim_01.skel",
+    "atlas": "web_l2d/m000_c810_01_aim/c810_aim_01.atlas",
+    "textures": [
+      "web_l2d/m000_c810_01_aim/c810_aim_01.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/2B - Thinner Thong + Smaller Ass + Cameltoe_Credits to Oracle Alice/Aim.png"
+  },
+  {
+    "idx": 1,
+    "kind": "spine",
+    "slug": "m001_c810_01_cover",
+    "cCode": "c810_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/2B - Thinner Thong + Smaller Ass + Cameltoe_Credits to Oracle Alice/c810_01_cover_El-Caudillo_2B-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/2B - Thinner Thong + Smaller Ass + Cameltoe_Credits to Oracle Alice",
+    "fileName": "c810_01_cover_El-Caudillo_2B-Lewd",
+    "skel": "web_l2d/m001_c810_01_cover/c810_cover_01.skel",
+    "atlas": "web_l2d/m001_c810_01_cover/c810_cover_01.atlas",
+    "textures": [
+      "web_l2d/m001_c810_01_cover/c810_cover_01.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/2B - Thinner Thong + Smaller Ass + Cameltoe_Credits to Oracle Alice/Aim.png"
+  },
+  {
+    "idx": 2,
+    "kind": "spine",
+    "slug": "m002_c191_00_aim",
+    "cCode": "c191_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi/c191_00_aim_El-Caudillo_Alice-Little-Violet",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi",
+    "fileName": "c191_00_aim_El-Caudillo_Alice-Little-Violet",
+    "skel": "web_l2d/m002_c191_00_aim/c191_aim_00.skel",
+    "atlas": "web_l2d/m002_c191_00_aim/c191_aim_00.atlas",
+    "textures": [
+      "web_l2d/m002_c191_00_aim/c191_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi/Aim.png"
+  },
+  {
+    "idx": 3,
+    "kind": "spine",
+    "slug": "m003_c191_00_cover",
+    "cCode": "c191_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi/c191_00_cover_El-Caudillo_Alice-Little-Violet",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi",
+    "fileName": "c191_00_cover_El-Caudillo_Alice-Little-Violet",
+    "skel": "web_l2d/m003_c191_00_cover/c191_cover_00.skel",
+    "atlas": "web_l2d/m003_c191_00_cover/c191_cover_00.atlas",
+    "textures": [
+      "web_l2d/m003_c191_00_cover/c191_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi/Aim.png"
+  },
+  {
+    "idx": 4,
+    "kind": "spine",
+    "slug": "m004_c191_00_standing",
+    "cCode": "c191_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi/c191_00_standing_El-Caudillo_Alice-Little-Violet",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi",
+    "fileName": "c191_00_standing_El-Caudillo_Alice-Little-Violet",
+    "skel": "web_l2d/m004_c191_00_standing/c191_00.skel",
+    "atlas": "web_l2d/m004_c191_00_standing/c191_00.atlas",
+    "textures": [
+      "web_l2d/m004_c191_00_standing/c191_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Alice - Little Violet + Mod by Mr Miagi/Aim.png"
+  },
+  {
+    "idx": 5,
+    "kind": "spine",
+    "slug": "m005_c581_00_standing",
+    "cCode": "c581_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Arcana See Through Bra/c581_00_standing_El-Caudillo_ArcanaLewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Arcana See Through Bra",
+    "fileName": "c581_00_standing_El-Caudillo_ArcanaLewd",
+    "skel": "web_l2d/m005_c581_00_standing/c581_00.skel",
+    "atlas": "web_l2d/m005_c581_00_standing/c581_00.atlas",
+    "textures": [
+      "web_l2d/m005_c581_00_standing/c581_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Arcana See Through Bra/standing.png"
+  },
+  {
+    "idx": 6,
+    "kind": "spine",
+    "slug": "m006_c550_00_aim",
+    "cCode": "c550_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Bay - Skimpy/c550_00_aim_El-Caudillo_Bay-Skimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Bay - Skimpy",
+    "fileName": "c550_00_aim_El-Caudillo_Bay-Skimpy",
+    "skel": "web_l2d/m006_c550_00_aim/c550_aim_00.skel",
+    "atlas": "web_l2d/m006_c550_00_aim/c550_aim_00.atlas",
+    "textures": [
+      "web_l2d/m006_c550_00_aim/c550_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Bay - Skimpy/aim.png"
+  },
+  {
+    "idx": 7,
+    "kind": "spine",
+    "slug": "m007_c550_00_standing",
+    "cCode": "c550_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Bay - Skimpy/c550_00_standing_El-Caudillo_Bay-Skimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Bay - Skimpy",
+    "fileName": "c550_00_standing_El-Caudillo_Bay-Skimpy",
+    "skel": "web_l2d/m007_c550_00_standing/c550_00.skel",
+    "atlas": "web_l2d/m007_c550_00_standing/c550_00.atlas",
+    "textures": [
+      "web_l2d/m007_c550_00_standing/c550_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Bay - Skimpy/aim.png"
+  },
+  {
+    "idx": 8,
+    "kind": "spine",
+    "slug": "m008_c551_00_aim",
+    "cCode": "c551_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy/c551_00_aim_El-Caudillo_ClaySkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy",
+    "fileName": "c551_00_aim_El-Caudillo_ClaySkimpy",
+    "skel": "web_l2d/m008_c551_00_aim/c551_aim_00.skel",
+    "atlas": "web_l2d/m008_c551_00_aim/c551_aim_00.atlas",
+    "textures": [
+      "web_l2d/m008_c551_00_aim/c551_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy/aim.png"
+  },
+  {
+    "idx": 9,
+    "kind": "spine",
+    "slug": "m009_c551_00_cover",
+    "cCode": "c551_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy/c551_00_cover_El-Caudillo_ClaySkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy",
+    "fileName": "c551_00_cover_El-Caudillo_ClaySkimpy",
+    "skel": "web_l2d/m009_c551_00_cover/c551_cover_00.skel",
+    "atlas": "web_l2d/m009_c551_00_cover/c551_cover_00.atlas",
+    "textures": [
+      "web_l2d/m009_c551_00_cover/c551_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy/aim.png"
+  },
+  {
+    "idx": 10,
+    "kind": "spine",
+    "slug": "m010_c551_00_standing",
+    "cCode": "c551_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy/c551_00_standing_El-Caudillo_ClaySkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy",
+    "fileName": "c551_00_standing_El-Caudillo_ClaySkimpy",
+    "skel": "web_l2d/m010_c551_00_standing/c551_00.skel",
+    "atlas": "web_l2d/m010_c551_00_standing/c551_00.atlas",
+    "textures": [
+      "web_l2d/m010_c551_00_standing/c551_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Clay - Skimpy/aim.png"
+  },
+  {
+    "idx": 11,
+    "kind": "spine",
+    "slug": "m011_c233_01_standing",
+    "cCode": "c233_01",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Dorothy  - Nostalgia + Removed Veils + Skimpy Panties (New Version)/c233_01_standing_El-Caudillo_Dorothy-Skimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Dorothy  - Nostalgia + Removed Veils + Skimpy Panties (New Version)",
+    "fileName": "c233_01_standing_El-Caudillo_Dorothy-Skimpy",
+    "skel": "web_l2d/m011_c233_01_standing/c233_01.skel",
+    "atlas": "web_l2d/m011_c233_01_standing/c233_01.atlas",
+    "textures": [
+      "web_l2d/m011_c233_01_standing/c233_01.png",
+      "web_l2d/m011_c233_01_standing/c233_01_2.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Dorothy  - Nostalgia + Removed Veils + Skimpy Panties (New Version)/Idle1.png"
+  },
+  {
+    "idx": 12,
+    "kind": "spine",
+    "slug": "m012_c162_00_aim",
+    "cCode": "c162_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Mihara Bonding Chain - No Veil/c162_00_aim_El-Caudillo_MiharaBCSkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Mihara Bonding Chain - No Veil",
+    "fileName": "c162_00_aim_El-Caudillo_MiharaBCSkimpy",
+    "skel": "web_l2d/m012_c162_00_aim/c162_aim_00.skel",
+    "atlas": "web_l2d/m012_c162_00_aim/c162_aim_00.atlas",
+    "textures": [
+      "web_l2d/m012_c162_00_aim/c162_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 13,
+    "kind": "spine",
+    "slug": "m013_c162_00_cover",
+    "cCode": "c162_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Mihara Bonding Chain - No Veil/c162_00_cover_El-Caudillo_MiharaBCSkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Mihara Bonding Chain - No Veil",
+    "fileName": "c162_00_cover_El-Caudillo_MiharaBCSkimpy",
+    "skel": "web_l2d/m013_c162_00_cover/c162_cover_00.skel",
+    "atlas": "web_l2d/m013_c162_00_cover/c162_cover_00.atlas",
+    "textures": [
+      "web_l2d/m013_c162_00_cover/c162_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 14,
+    "kind": "spine",
+    "slug": "m014_c162_00_standing",
+    "cCode": "c162_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Mihara Bonding Chain - No Veil/c162_00_standing_El-Caudillo_MiharaBCSkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Mihara Bonding Chain - No Veil",
+    "fileName": "c162_00_standing_El-Caudillo_MiharaBCSkimpy",
+    "skel": "web_l2d/m014_c162_00_standing/c162_00.skel",
+    "atlas": "web_l2d/m014_c162_00_standing/c162_00.atlas",
+    "textures": [
+      "web_l2d/m014_c162_00_standing/c162_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 15,
+    "kind": "spine",
+    "slug": "m015_c261_00_cover",
+    "cCode": "c261_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Nihilister - Nipples Peek + Mod by Mr Miagi/c261_00_cover_El-Caudillo_Nihilister-Nipples",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Nihilister - Nipples Peek + Mod by Mr Miagi",
+    "fileName": "c261_00_cover_El-Caudillo_Nihilister-Nipples",
+    "skel": "web_l2d/m015_c261_00_cover/c261_cover_00.skel",
+    "atlas": "web_l2d/m015_c261_00_cover/c261_cover_00.atlas",
+    "textures": [
+      "web_l2d/m015_c261_00_cover/c261_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Nihilister - Nipples Peek + Mod by Mr Miagi/cover.png"
+  },
+  {
+    "idx": 16,
+    "kind": "spine",
+    "slug": "m016_c261_00_standing",
+    "cCode": "c261_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Nihilister - Nipples Peek + Mod by Mr Miagi/c261_00_standing_El-Caudillo_Nihilister-Nipples",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Nihilister - Nipples Peek + Mod by Mr Miagi",
+    "fileName": "c261_00_standing_El-Caudillo_Nihilister-Nipples",
+    "skel": "web_l2d/m016_c261_00_standing/c261_00.skel",
+    "atlas": "web_l2d/m016_c261_00_standing/c261_00.atlas",
+    "textures": [
+      "web_l2d/m016_c261_00_standing/c261_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Nihilister - Nipples Peek + Mod by Mr Miagi/cover.png"
+  },
+  {
+    "idx": 17,
+    "kind": "spine",
+    "slug": "m017_c313_00_standing",
+    "cCode": "c313_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Privaty Unkind Maid Skimpy/c313_00_standing_El-Caudillo_PrivatyUMSkimpy",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Privaty Unkind Maid Skimpy",
+    "fileName": "c313_00_standing_El-Caudillo_PrivatyUMSkimpy",
+    "skel": "web_l2d/m017_c313_00_standing/c313_00.skel",
+    "atlas": "web_l2d/m017_c313_00_standing/c313_00.atlas",
+    "textures": [
+      "web_l2d/m017_c313_00_standing/c313_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 18,
+    "kind": "spine",
+    "slug": "m018_c402_00_standing",
+    "cCode": "c402_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency - No Belts + Nipple/c402_00_standing_El-Caudillo_Quency-Nipples",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency - No Belts + Nipple",
+    "fileName": "c402_00_standing_El-Caudillo_Quency-Nipples",
+    "skel": "web_l2d/m018_c402_00_standing/c402_00.skel",
+    "atlas": "web_l2d/m018_c402_00_standing/c402_00.atlas",
+    "textures": [
+      "web_l2d/m018_c402_00_standing/c402_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency - No Belts + Nipple/Quency - Idle.png"
+  },
+  {
+    "idx": 19,
+    "kind": "spine",
+    "slug": "m019_c403_00_aim",
+    "cCode": "c403_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency Escape Queen - Tighter Suit/c403_00_aim_El-Caudillo_QEQ-Tight-Suit",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency Escape Queen - Tighter Suit",
+    "fileName": "c403_00_aim_El-Caudillo_QEQ-Tight-Suit",
+    "skel": "web_l2d/m019_c403_00_aim/c403_aim_00.skel",
+    "atlas": "web_l2d/m019_c403_00_aim/c403_aim_00.atlas",
+    "textures": [
+      "web_l2d/m019_c403_00_aim/c403_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency Escape Queen - Tighter Suit/aim.png"
+  },
+  {
+    "idx": 20,
+    "kind": "spine",
+    "slug": "m020_c403_00_cover",
+    "cCode": "c403_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency Escape Queen - Tighter Suit/c403_00_cover_El-Caudillo_QEQ-Tight-Suit",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency Escape Queen - Tighter Suit",
+    "fileName": "c403_00_cover_El-Caudillo_QEQ-Tight-Suit",
+    "skel": "web_l2d/m020_c403_00_cover/c403_cover_00.skel",
+    "atlas": "web_l2d/m020_c403_00_cover/c403_cover_00.atlas",
+    "textures": [
+      "web_l2d/m020_c403_00_cover/c403_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Quency Escape Queen - Tighter Suit/aim.png"
+  },
+  {
+    "idx": 21,
+    "kind": "spine",
+    "slug": "m021_c016_00_standing",
+    "cCode": "c016_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapi Red Hood - More Revealing/c016_00_standing_El-Caudillo_RapiRedHoodRevealing",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapi Red Hood - More Revealing",
+    "fileName": "c016_00_standing_El-Caudillo_RapiRedHoodRevealing",
+    "skel": "web_l2d/m021_c016_00_standing/c016_00.skel",
+    "atlas": "web_l2d/m021_c016_00_standing/c016_00.atlas",
+    "textures": [
+      "web_l2d/m021_c016_00_standing/c016_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapi Red Hood - More Revealing/standing.PNG"
+  },
+  {
+    "idx": 22,
+    "kind": "spine",
+    "slug": "m022_c221_00_aim",
+    "cCode": "c221_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired/c221_00_aim_El-Caudillo_Rapunzel-Silver-Hair",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired",
+    "fileName": "c221_00_aim_El-Caudillo_Rapunzel-Silver-Hair",
+    "skel": "web_l2d/m022_c221_00_aim/c221_aim_00.skel",
+    "atlas": "web_l2d/m022_c221_00_aim/c221_aim_00.atlas",
+    "textures": [
+      "web_l2d/m022_c221_00_aim/c221_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired/Rapunzel - Aim.png"
+  },
+  {
+    "idx": 23,
+    "kind": "spine",
+    "slug": "m023_c221_00_cover",
+    "cCode": "c221_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired/c221_00_cover_El-Caudillo_Rapunzel-Silver-Hair",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired",
+    "fileName": "c221_00_cover_El-Caudillo_Rapunzel-Silver-Hair",
+    "skel": "web_l2d/m023_c221_00_cover/c221_cover_00.skel",
+    "atlas": "web_l2d/m023_c221_00_cover/c221_cover_00.atlas",
+    "textures": [
+      "web_l2d/m023_c221_00_cover/c221_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired/Rapunzel - Aim.png"
+  },
+  {
+    "idx": 24,
+    "kind": "spine",
+    "slug": "m024_c221_00_standing",
+    "cCode": "c221_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired/c221_00_standing_El-Caudillo_Rapunzel-Silver-Hair",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired",
+    "fileName": "c221_00_standing_El-Caudillo_Rapunzel-Silver-Hair",
+    "skel": "web_l2d/m024_c221_00_standing/c221_00.skel",
+    "atlas": "web_l2d/m024_c221_00_standing/c221_00.atlas",
+    "textures": [
+      "web_l2d/m024_c221_00_standing/c221_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rapunzel - Silver Haired/Rapunzel - Aim.png"
+  },
+  {
+    "idx": 25,
+    "kind": "spine",
+    "slug": "m025_c283_00_aim",
+    "cCode": "c283_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rosanna Chic Asshole/c283_00_aim_El-Caudillo_Rosanna-Chic-Asshole",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rosanna Chic Asshole",
+    "fileName": "c283_00_aim_El-Caudillo_Rosanna-Chic-Asshole",
+    "skel": "web_l2d/m025_c283_00_aim/c283_aim_00.skel",
+    "atlas": "web_l2d/m025_c283_00_aim/c283_aim_00.atlas",
+    "textures": [
+      "web_l2d/m025_c283_00_aim/c283_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Rosanna Chic Asshole/ass.png"
+  },
+  {
+    "idx": 26,
+    "kind": "spine",
+    "slug": "m026_c284_00_aim",
+    "cCode": "c284_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Sakura Bloom in Summer - Removed Veil/c284_00_aim_El-Caudillo_Removed-Veil",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Sakura Bloom in Summer - Removed Veil",
+    "fileName": "c284_00_aim_El-Caudillo_Removed-Veil",
+    "skel": "web_l2d/m026_c284_00_aim/c284_aim_00.skel",
+    "atlas": "web_l2d/m026_c284_00_aim/c284_aim_00.atlas",
+    "textures": [
+      "web_l2d/m026_c284_00_aim/c284_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Sakura Bloom in Summer - Removed Veil/aim.png"
+  },
+  {
+    "idx": 27,
+    "kind": "spine",
+    "slug": "m027_c222_00_aim",
+    "cCode": "c222_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless/c222_00_aim_El-Caudillo_Scarlet-Hatless",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless",
+    "fileName": "c222_00_aim_El-Caudillo_Scarlet-Hatless",
+    "skel": "web_l2d/m027_c222_00_aim/c222_aim_00.skel",
+    "atlas": "web_l2d/m027_c222_00_aim/c222_aim_00.atlas",
+    "textures": [
+      "web_l2d/m027_c222_00_aim/c222_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless/Scarlet - Aim.png"
+  },
+  {
+    "idx": 28,
+    "kind": "spine",
+    "slug": "m028_c222_00_cover",
+    "cCode": "c222_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless/c222_00_cover_El-Caudillo_Scarlet-Hatless",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless",
+    "fileName": "c222_00_cover_El-Caudillo_Scarlet-Hatless",
+    "skel": "web_l2d/m028_c222_00_cover/c222_cover_00.skel",
+    "atlas": "web_l2d/m028_c222_00_cover/c222_cover_00.atlas",
+    "textures": [
+      "web_l2d/m028_c222_00_cover/c222_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless/Scarlet - Aim.png"
+  },
+  {
+    "idx": 29,
+    "kind": "spine",
+    "slug": "m029_c222_00_standing",
+    "cCode": "c222_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless/c222_00_standing_El-Caudillo_Scarlet-Hatless",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless",
+    "fileName": "c222_00_standing_El-Caudillo_Scarlet-Hatless",
+    "skel": "web_l2d/m029_c222_00_standing/c222_00.skel",
+    "atlas": "web_l2d/m029_c222_00_standing/c222_00.atlas",
+    "textures": [
+      "web_l2d/m029_c222_00_standing/c222_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Scarlet - Hatless/Scarlet - Aim.png"
+  },
+  {
+    "idx": 30,
+    "kind": "spine",
+    "slug": "m030_c312_00_cover",
+    "cCode": "c312_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda - Skirtless Nipples Peek/c312_00_cover_El-Caudillo_Soda-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda - Skirtless Nipples Peek",
+    "fileName": "c312_00_cover_El-Caudillo_Soda-Lewd",
+    "skel": "web_l2d/m030_c312_00_cover/c312_cover_00.skel",
+    "atlas": "web_l2d/m030_c312_00_cover/c312_cover_00.atlas",
+    "textures": [
+      "web_l2d/m030_c312_00_cover/c312_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda - Skirtless Nipples Peek/No Apron.png"
+  },
+  {
+    "idx": 31,
+    "kind": "spine",
+    "slug": "m031_c312_00_standing",
+    "cCode": "c312_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda - Skirtless Nipples Peek/c312_00_standing_El-Caudillo_Soda-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda - Skirtless Nipples Peek",
+    "fileName": "c312_00_standing_El-Caudillo_Soda-Lewd",
+    "skel": "web_l2d/m031_c312_00_standing/c312_00.skel",
+    "atlas": "web_l2d/m031_c312_00_standing/c312_00.atlas",
+    "textures": [
+      "web_l2d/m031_c312_00_standing/c312_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda - Skirtless Nipples Peek/No Apron.png"
+  },
+  {
+    "idx": 32,
+    "kind": "spine",
+    "slug": "m032_c314_00_cover",
+    "cCode": "c314_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda Twinkling Rabbit - Nipples/c314_00_cover_El-Caudillo_Nipples",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda Twinkling Rabbit - Nipples",
+    "fileName": "c314_00_cover_El-Caudillo_Nipples",
+    "skel": "web_l2d/m032_c314_00_cover/c314_cover_00.skel",
+    "atlas": "web_l2d/m032_c314_00_cover/c314_cover_00.atlas",
+    "textures": [
+      "web_l2d/m032_c314_00_cover/c314_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda Twinkling Rabbit - Nipples/cover.png"
+  },
+  {
+    "idx": 33,
+    "kind": "spine",
+    "slug": "m033_c314_00_standing",
+    "cCode": "c314_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda Twinkling Rabbit - Nipples/c314_00_standing_El-Caudillo_Nipples",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda Twinkling Rabbit - Nipples",
+    "fileName": "c314_00_standing_El-Caudillo_Nipples",
+    "skel": "web_l2d/m033_c314_00_standing/c314_00.skel",
+    "atlas": "web_l2d/m033_c314_00_standing/c314_00.atlas",
+    "textures": [
+      "web_l2d/m033_c314_00_standing/c314_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Soda Twinkling Rabbit - Nipples/cover.png"
+  },
+  {
+    "idx": 34,
+    "kind": "spine",
+    "slug": "m034_c316_00_aim",
+    "cCode": "c316_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd/c316_00_aim_El-Caudillo_Velvet-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd",
+    "fileName": "c316_00_aim_El-Caudillo_Velvet-Lewd",
+    "skel": "web_l2d/m034_c316_00_aim/c316_aim_00.skel",
+    "atlas": "web_l2d/m034_c316_00_aim/c316_aim_00.atlas",
+    "textures": [
+      "web_l2d/m034_c316_00_aim/c316_aim_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd/standing.PNG"
+  },
+  {
+    "idx": 35,
+    "kind": "spine",
+    "slug": "m035_c316_00_cover",
+    "cCode": "c316_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd/c316_00_cover_El-Caudillo_Velvet-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd",
+    "fileName": "c316_00_cover_El-Caudillo_Velvet-Lewd",
+    "skel": "web_l2d/m035_c316_00_cover/c316_cover_00.skel",
+    "atlas": "web_l2d/m035_c316_00_cover/c316_cover_00.atlas",
+    "textures": [
+      "web_l2d/m035_c316_00_cover/c316_cover_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd/standing.PNG"
+  },
+  {
+    "idx": 36,
+    "kind": "spine",
+    "slug": "m036_c316_00_standing",
+    "cCode": "c316_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd/c316_00_standing_El-Caudillo_Velvet-Lewd",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd",
+    "fileName": "c316_00_standing_El-Caudillo_Velvet-Lewd",
+    "skel": "web_l2d/m036_c316_00_standing/c316_00.skel",
+    "atlas": "web_l2d/m036_c316_00_standing/c316_00.atlas",
+    "textures": [
+      "web_l2d/m036_c316_00_standing/c316_00.png"
+    ],
+    "preview": "El-Caudillo_mods/Nikke Custom Mods/PC_New/Velvet_Lewd/standing.PNG"
+  },
+  {
+    "idx": 37,
+    "kind": "spine",
+    "slug": "m037_c181_00_burst",
+    "cCode": "c181_00",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Maiden Facial - Enhanced/d35f3c47e66b0d8ef16e29d09fb5e1c1/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Maiden Facial - Enhanced/d35f3c47e66b0d8ef16e29d09fb5e1c1/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m037_c181_00_burst/c181_00_skillcut.skel",
+    "atlas": "web_l2d/m037_c181_00_burst/c181_00_skillcut.atlas",
+    "textures": [
+      "web_l2d/m037_c181_00_burst/fx_c181_cut_scene_bg_02.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_pattern_15.png",
+      "web_l2d/m037_c181_00_burst/fx_c181_cutscene_atlas_01.png",
+      "web_l2d/m037_c181_00_burst/fx_hs_pattern_01_bw.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_pattern_13.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_pattern_24.png",
+      "web_l2d/m037_c181_00_burst/fx_hs_lens_11_white.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_pattern_22.png",
+      "web_l2d/m037_c181_00_burst/fx_c181_cut_scene_bg_01 1.png",
+      "web_l2d/m037_c181_00_burst/fx_c181_cut_scene_bg_01.png",
+      "web_l2d/m037_c181_00_burst/fx_pattern_01.png",
+      "web_l2d/m037_c181_00_burst/fx_pattern_03.png",
+      "web_l2d/m037_c181_00_burst/fx_gra_01_invert.png",
+      "web_l2d/m037_c181_00_burst/fx_pattern_03_blur.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_05.png",
+      "web_l2d/m037_c181_00_burst/fx_hs_pattern_13.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_smoke_ani_10.png",
+      "web_l2d/m037_c181_00_burst/fx_c181_cutscene_atlas_02.png",
+      "web_l2d/m037_c181_00_burst/fx_dh_dust_01.png",
+      "web_l2d/m037_c181_00_burst/Default-ParticleSystem.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_pattern_19.png",
+      "web_l2d/m037_c181_00_burst/fx_gra_04.png",
+      "web_l2d/m037_c181_00_burst/fx_jh_line_pattern_20.png",
+      "web_l2d/m037_c181_00_burst/Default-Particle.png",
+      "web_l2d/m037_c181_00_burst/c181_00_skillcut.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 38,
+    "kind": "spine",
+    "slug": "m038_c321_01_burst",
+    "cCode": "c321_01",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Marciana Swap/8e7974cb7b64a5433dc72eab043c077f/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Marciana Swap/8e7974cb7b64a5433dc72eab043c077f/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m038_c321_01_burst/c321_01_skillcut.skel",
+    "atlas": "web_l2d/m038_c321_01_burst/c321_01_skillcut.atlas",
+    "textures": [
+      "web_l2d/m038_c321_01_burst/fx_c321_01_cutscene_atlas2.png",
+      "web_l2d/m038_c321_01_burst/fx_c321_01_cutscene_bg.png",
+      "web_l2d/m038_c321_01_burst/fx_c321_01_cutscene_atlas1.png",
+      "web_l2d/m038_c321_01_burst/fx_c271_cut_scene_blen.png",
+      "web_l2d/m038_c321_01_burst/fx_c321_01_cutscene_uv.png",
+      "web_l2d/m038_c321_01_burst/fx_pattern_03_blur.png",
+      "web_l2d/m038_c321_01_burst/c321_01_skillcut.png",
+      "web_l2d/m038_c321_01_burst/fx_gra_04.png",
+      "web_l2d/m038_c321_01_burst/fx_c321_01_cutscene_mask.png",
+      "web_l2d/m038_c321_01_burst/Default-Particle.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 39,
+    "kind": "spine",
+    "slug": "m039_unknown_standing",
+    "cCode": "unknown",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Naga Bra-Less - More Transparent Shirt/1d5f5cf9adeb7138c26efeccf823fdf8/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Naga Bra-Less - More Transparent Shirt/1d5f5cf9adeb7138c26efeccf823fdf8/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m039_unknown_standing/EventScene_Dazzlingcupid_02.skel",
+    "atlas": "web_l2d/m039_unknown_standing/EventScene_Dazzlingcupid_02.atlas",
+    "textures": [
+      "web_l2d/m039_unknown_standing/EventScene_Dazzlingcupid_02.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 40,
+    "kind": "spine",
+    "slug": "m040_c261_00_burst",
+    "cCode": "c261_00",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Nihilister over Rei/0519fa832be92409640913e182f22252/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Nihilister over Rei/0519fa832be92409640913e182f22252/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m040_c261_00_burst/c261_00_skillcut.skel",
+    "atlas": "web_l2d/m040_c261_00_burst/c261_00_skillcut.atlas",
+    "textures": [
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_27.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_32.png",
+      "web_l2d/m040_c261_00_burst/fx_c261_cutscene_atlas_02.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_13.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_24.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_22.png",
+      "web_l2d/m040_c261_00_burst/fx_c261_cutscene_pattern_01.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_31.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_37.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_18.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_42.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_aura_pattern_02.png",
+      "web_l2d/m040_c261_00_burst/c261_00_skillcut.png",
+      "web_l2d/m040_c261_00_burst/fx_pattern_03.png",
+      "web_l2d/m040_c261_00_burst/fx_pattern_03_blur.png",
+      "web_l2d/m040_c261_00_burst/fx_jh_line_pattern_26.png",
+      "web_l2d/m040_c261_00_burst/Default-ParticleSystem.png",
+      "web_l2d/m040_c261_00_burst/fx_c261_cutscene_gra_01.png",
+      "web_l2d/m040_c261_00_burst/fx_gra_04.png",
+      "web_l2d/m040_c261_00_burst/fx_c261_cutscene_atlas_01.png",
+      "web_l2d/m040_c261_00_burst/Default-Particle.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 41,
+    "kind": "spine",
+    "slug": "m041_c283_00_burst",
+    "cCode": "c283_00",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Rosanna Chic Ocean - Bottomless/816c31e33b57f62d1c49fbf88e2f2f1e/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Rosanna Chic Ocean - Bottomless/816c31e33b57f62d1c49fbf88e2f2f1e/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m041_c283_00_burst/c283_00_skillcut.skel",
+    "atlas": "web_l2d/m041_c283_00_burst/c283_00_skillcut.atlas",
+    "textures": [
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_water.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_bg_02.png",
+      "web_l2d/m041_c283_00_burst/fx_hs_gra_01.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_water_ptc.png",
+      "web_l2d/m041_c283_00_burst/fx_pattern_01.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_bg_03.png",
+      "web_l2d/m041_c283_00_burst/fx_pattern_03_blur.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_ult_world_camera_water.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_atlas.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_bg_01.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_water_bg.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_wave.png",
+      "web_l2d/m041_c283_00_burst/fx_dh_pattern_09.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_cut_scene_bg_04.png",
+      "web_l2d/m041_c283_00_burst/fx_gra_04.png",
+      "web_l2d/m041_c283_00_burst/fx_c283_ult_world_wave_pattern.png",
+      "web_l2d/m041_c283_00_burst/Default-Particle.png",
+      "web_l2d/m041_c283_00_burst/c283_00_skillcut.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 42,
+    "kind": "spine",
+    "slug": "m042_c312_00_burst",
+    "cCode": "c312_00",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Soda - See Through/ea121329f85b2f0a3eb6037b760330bc/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Soda - See Through/ea121329f85b2f0a3eb6037b760330bc/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m042_c312_00_burst/c312_00_skillcut.skel",
+    "atlas": "web_l2d/m042_c312_00_burst/c312_00_skillcut.atlas",
+    "textures": [
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_window_sh_02.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_window_sh_03_mask.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cutscene_atlas_blen.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_breast_sh_mask.png",
+      "web_l2d/m042_c312_00_burst/fx_hy_smoke_ani_09.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_window_sh_02_mask.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cutscene_atlas_add.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_window_sh_03.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_window_sh_01.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_breast_sh.png",
+      "web_l2d/m042_c312_00_burst/fx_c312_cut_scene_window_sh_01_mask.png",
+      "web_l2d/m042_c312_00_burst/c312_00_skillcut.png",
+      "web_l2d/m042_c312_00_burst/fx_gra_04.png",
+      "web_l2d/m042_c312_00_burst/c312_cut_scene_bg.png",
+      "web_l2d/m042_c312_00_burst/Default-Particle.png",
+      "web_l2d/m042_c312_00_burst/fx_c220_cut_scene_blen.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 43,
+    "kind": "spine",
+    "slug": "m043_c314_00_burst",
+    "cCode": "c314_00",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Soda Twinkling Bunny - Nipples/9f9a7ce7252e6211bcefb06f69fd9b0d/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Soda Twinkling Bunny - Nipples/9f9a7ce7252e6211bcefb06f69fd9b0d/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m043_c314_00_burst/c314_00_skillcut.skel",
+    "atlas": "web_l2d/m043_c314_00_burst/c314_00_skillcut.atlas",
+    "textures": [
+      "web_l2d/m043_c314_00_burst/c314_00_skillcut.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_gra_46.png",
+      "web_l2d/m043_c314_00_burst/fx_c314_00_cut_scene_atlas_02.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_star_pattern_01.png",
+      "web_l2d/m043_c314_00_burst/fx_c314_00_cut_scene_gra_01.png",
+      "web_l2d/m043_c314_00_burst/fx_c314_00_coin_3d_01.png",
+      "web_l2d/m043_c314_00_burst/fx_c314_00_cut_scene_gra_02.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_gra_37.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_line_pattern_87.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_aura_pattern_01.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_pattern_01_color.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_line_pattern_76.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_gra_31.png",
+      "web_l2d/m043_c314_00_burst/fx_c314_00_cut_scene_atlas_01.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_line_pattern_72.png",
+      "web_l2d/m043_c314_00_burst/fx_c233_ult_pattern_01.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_line_pattern_62_clamp.png",
+      "web_l2d/m043_c314_00_burst/fx_gra_04.png",
+      "web_l2d/m043_c314_00_burst/Default-Particle.png",
+      "web_l2d/m043_c314_00_burst/fx_jh_gra_25_repeat.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 44,
+    "kind": "spine",
+    "slug": "m044_c312_00_burst",
+    "cCode": "c312_00",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Soda over Pascal - See Through/aa175d625c8983ae4104003ef2c5af14/(Change_Name_of_this_Folder)/__data",
+    "folder": "El-Caudillo_mods/Nikke Custom Mods/PC_New/_Lobby Mods/Soda over Pascal - See Through/aa175d625c8983ae4104003ef2c5af14/(Change_Name_of_this_Folder)",
+    "fileName": "__data",
+    "skel": "web_l2d/m044_c312_00_burst/c312_00_skillcut.skel",
+    "atlas": "web_l2d/m044_c312_00_burst/c312_00_skillcut.atlas",
+    "textures": [
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_window_sh_02.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_window_sh_03_mask.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cutscene_atlas_blen.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_breast_sh_mask.png",
+      "web_l2d/m044_c312_00_burst/fx_hy_smoke_ani_09.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_window_sh_02_mask.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cutscene_atlas_add.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_window_sh_03.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_window_sh_01.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_breast_sh.png",
+      "web_l2d/m044_c312_00_burst/fx_c312_cut_scene_window_sh_01_mask.png",
+      "web_l2d/m044_c312_00_burst/c312_00_skillcut.png",
+      "web_l2d/m044_c312_00_burst/fx_gra_04.png",
+      "web_l2d/m044_c312_00_burst/c312_cut_scene_bg.png",
+      "web_l2d/m044_c312_00_burst/Default-Particle.png",
+      "web_l2d/m044_c312_00_burst/fx_c220_cut_scene_blen.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 45,
+    "kind": "spine",
+    "slug": "m045_c015_00_cover",
+    "cCode": "c015_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/c015_00_cover_117il3_泳装阿妮斯(去武器)",
+    "folder": "Nikke-Mod-Tools/TestMod",
+    "fileName": "c015_00_cover_117il3_泳装阿妮斯(去武器)",
+    "skel": "web_l2d/m045_c015_00_cover/c015_cover_00.skel",
+    "atlas": "web_l2d/m045_c015_00_cover/c015_cover_00.atlas",
+    "textures": [
+      "web_l2d/m045_c015_00_cover/c015_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 46,
+    "kind": "spine",
+    "slug": "m046_c043_00_cover",
+    "cCode": "c043_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/c043_00_cover_yuk11sh1d4_人妻D(武器透明化)",
+    "folder": "Nikke-Mod-Tools/TestMod",
+    "fileName": "c043_00_cover_yuk11sh1d4_人妻D(武器透明化)",
+    "skel": "web_l2d/m046_c043_00_cover/c043_cover_00.skel",
+    "atlas": "web_l2d/m046_c043_00_cover/c043_cover_00.atlas",
+    "textures": [
+      "web_l2d/m046_c043_00_cover/c043_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 47,
+    "kind": "spine",
+    "slug": "m047_c194_00_aim",
+    "cCode": "c194_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/c194_00_aim_Seireiko_T1-圣鲁",
+    "folder": "Nikke-Mod-Tools/TestMod",
+    "fileName": "c194_00_aim_Seireiko_T1-圣鲁",
+    "skel": "web_l2d/m047_c194_00_aim/c194_aim_00.skel",
+    "atlas": "web_l2d/m047_c194_00_aim/c194_aim_00.atlas",
+    "textures": [
+      "web_l2d/m047_c194_00_aim/c194_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 48,
+    "kind": "spine",
+    "slug": "m048_c283_00_standing",
+    "cCode": "c283_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/c283_00_standing_MM_泳装罗珊娜",
+    "folder": "Nikke-Mod-Tools/TestMod",
+    "fileName": "c283_00_standing_MM_泳装罗珊娜",
+    "skel": "web_l2d/m048_c283_00_standing/c283_00.skel",
+    "atlas": "web_l2d/m048_c283_00_standing/c283_00.atlas",
+    "textures": [
+      "web_l2d/m048_c283_00_standing/c283_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 49,
+    "kind": "spine",
+    "slug": "m049_c403_00_aim",
+    "cCode": "c403_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/c403_00_aim_十二HEX_怪盗坎西",
+    "folder": "Nikke-Mod-Tools/TestMod",
+    "fileName": "c403_00_aim_十二HEX_怪盗坎西",
+    "skel": "web_l2d/m049_c403_00_aim/c403_aim_00.skel",
+    "atlas": "web_l2d/m049_c403_00_aim/c403_aim_00.atlas",
+    "textures": [
+      "web_l2d/m049_c403_00_aim/c403_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 50,
+    "kind": "spine",
+    "slug": "m050_c511_01_standing",
+    "cCode": "c511_01",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/c511_01_standing_Na0h_辛德瑞拉",
+    "folder": "Nikke-Mod-Tools/TestMod",
+    "fileName": "c511_01_standing_Na0h_辛德瑞拉",
+    "skel": "web_l2d/m050_c511_01_standing/c511_01.skel",
+    "atlas": "web_l2d/m050_c511_01_standing/c511_01.atlas",
+    "textures": [
+      "web_l2d/m050_c511_01_standing/c511_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 51,
+    "kind": "icon",
+    "srcRel": "Nikke-Mod-Tools/TestMod/icons/c411_00_icons_yuk11sh1d4_芙萝拉",
+    "png": "web_l2d/icon_051_c411_00_icons_yuk11sh1d4__/mi_c411_00_s.png"
+  },
+  {
+    "idx": 52,
+    "kind": "spine",
+    "slug": "m052_c330_01_burst",
+    "cCode": "c330_01",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/lobby/c330_01_burst_Na0h_皇冠的新衣-Topless",
+    "folder": "Nikke-Mod-Tools/TestMod/lobby",
+    "fileName": "c330_01_burst_Na0h_皇冠的新衣-Topless",
+    "skel": "web_l2d/m052_c330_01_burst/c330_01_skillcut.skel",
+    "atlas": "web_l2d/m052_c330_01_burst/c330_01_skillcut.atlas",
+    "textures": [
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_aura_01.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_bg_01.png",
+      "web_l2d/m052_c330_01_burst/fx_gra_01_remap.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_pattern_01.png",
+      "web_l2d/m052_c330_01_burst/fx_dh_pattern_17_remap3.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_pattern_03.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_pattern_02_mask.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_light_uv_01.png",
+      "web_l2d/m052_c330_01_burst/fx_hy_screen_04.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_pattern_05.png",
+      "web_l2d/m052_c330_01_burst/fx_c010_cut_scene_atlas_blen.png",
+      "web_l2d/m052_c330_01_burst/fx_pattern_01.png",
+      "web_l2d/m052_c330_01_burst/fx_xbg001_sk5_gra.png",
+      "web_l2d/m052_c330_01_burst/fx_gra_05_invert_size.png",
+      "web_l2d/m052_c330_01_burst/fx_pattern_03_blur.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_atlas_01.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_atlas_02.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_aura_01_mask.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_smoke.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_pattern_02.png",
+      "web_l2d/m052_c330_01_burst/fx_c821_ult_buff_particle_mask.png",
+      "web_l2d/m052_c330_01_burst/c330_01_skillcut.png",
+      "web_l2d/m052_c330_01_burst/fx_c330_01_cut_scene_pattern_01_mask.png",
+      "web_l2d/m052_c330_01_burst/fx_gra_04.png",
+      "web_l2d/m052_c330_01_burst/fx_gra_05.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 53,
+    "kind": "spine",
+    "slug": "m053_c330_01_burst",
+    "cCode": "c330_01",
+    "pose": "burst",
+    "ver": "4.1",
+    "srcRel": "Nikke-Mod-Tools/TestMod/lobby/c330_01_lobby_Na0h_皇冠的新衣-Topless",
+    "folder": "Nikke-Mod-Tools/TestMod/lobby",
+    "fileName": "c330_01_lobby_Na0h_皇冠的新衣-Topless",
+    "skel": "web_l2d/m053_c330_01_burst/c330_01_skillcut.skel",
+    "atlas": "web_l2d/m053_c330_01_burst/c330_01_skillcut.atlas",
+    "textures": [
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_aura_01.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_bg_01.png",
+      "web_l2d/m053_c330_01_burst/fx_gra_01_remap.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_pattern_01.png",
+      "web_l2d/m053_c330_01_burst/fx_dh_pattern_17_remap3.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_pattern_03.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_pattern_02_mask.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_light_uv_01.png",
+      "web_l2d/m053_c330_01_burst/fx_hy_screen_04.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_pattern_05.png",
+      "web_l2d/m053_c330_01_burst/fx_c010_cut_scene_atlas_blen.png",
+      "web_l2d/m053_c330_01_burst/fx_pattern_01.png",
+      "web_l2d/m053_c330_01_burst/fx_xbg001_sk5_gra.png",
+      "web_l2d/m053_c330_01_burst/fx_gra_05_invert_size.png",
+      "web_l2d/m053_c330_01_burst/fx_pattern_03_blur.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_atlas_01.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_atlas_02.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_aura_01_mask.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_smoke.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_pattern_02.png",
+      "web_l2d/m053_c330_01_burst/fx_c821_ult_buff_particle_mask.png",
+      "web_l2d/m053_c330_01_burst/c330_01_skillcut.png",
+      "web_l2d/m053_c330_01_burst/fx_c330_01_cut_scene_pattern_01_mask.png",
+      "web_l2d/m053_c330_01_burst/fx_gra_04.png",
+      "web_l2d/m053_c330_01_burst/fx_gra_05.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 54,
+    "kind": "spine",
+    "slug": "m054_unknown_standing",
+    "cCode": "unknown",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/Lobby Mods/Neverland/com_proximabeta_NIKKE/e688ff83577247238a40f678a85c1d8a/8c789fe64dc014f3d0beec0b212d5e33/__data",
+    "folder": "gjopin_mods/gjopin pc nikke mods/Lobby Mods/Neverland/com_proximabeta_NIKKE/e688ff83577247238a40f678a85c1d8a/8c789fe64dc014f3d0beec0b212d5e33",
+    "fileName": "__data",
+    "skel": "web_l2d/m054_unknown_standing/EventTitle_NEVERLAND_02.skel",
+    "atlas": "web_l2d/m054_unknown_standing/EventTitle_NEVERLAND_02.atlas",
+    "textures": [
+      "web_l2d/m054_unknown_standing/EventTitle_NEVERLAND_02.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 55,
+    "kind": "spine",
+    "slug": "m055_c016_00_aim",
+    "cCode": "c016_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c016 Rapi Red Hood/Mod/c016_00_aim_gjopin_RapiRedHood",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c016 Rapi Red Hood/Mod",
+    "fileName": "c016_00_aim_gjopin_RapiRedHood",
+    "skel": "web_l2d/m055_c016_00_aim/c016_aim_00.skel",
+    "atlas": "web_l2d/m055_c016_00_aim/c016_aim_00.atlas",
+    "textures": [
+      "web_l2d/m055_c016_00_aim/c016_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c016 Rapi Red Hood/Preview/Screenshot 2024-12-25 192951.png"
+  },
+  {
+    "idx": 56,
+    "kind": "spine",
+    "slug": "m056_c016_00_standing",
+    "cCode": "c016_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c016 Rapi Red Hood/Mod/c016_00_standing_gjopin_RapiRedHood",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c016 Rapi Red Hood/Mod",
+    "fileName": "c016_00_standing_gjopin_RapiRedHood",
+    "skel": "web_l2d/m056_c016_00_standing/c016_00.skel",
+    "atlas": "web_l2d/m056_c016_00_standing/c016_00.atlas",
+    "textures": [
+      "web_l2d/m056_c016_00_standing/c016_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c016 Rapi Red Hood/Preview/Screenshot 2024-12-25 192951.png"
+  },
+  {
+    "idx": 57,
+    "kind": "spine",
+    "slug": "m057_c033_00_aim",
+    "cCode": "c033_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c033 Quiry/Mod/c033_00_aim_gjopin_Quiry",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c033 Quiry/Mod",
+    "fileName": "c033_00_aim_gjopin_Quiry",
+    "skel": "web_l2d/m057_c033_00_aim/c033_aim_00.skel",
+    "atlas": "web_l2d/m057_c033_00_aim/c033_aim_00.atlas",
+    "textures": [
+      "web_l2d/m057_c033_00_aim/c033_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c033 Quiry/Preview/q00aim.jpg"
+  },
+  {
+    "idx": 58,
+    "kind": "spine",
+    "slug": "m058_c043_00_standing",
+    "cCode": "c043_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c043 D Killer Wife/c043_00_standing_gjopin_D Killer Wife",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c043 D Killer Wife",
+    "fileName": "c043_00_standing_gjopin_D Killer Wife",
+    "skel": "web_l2d/m058_c043_00_standing/c043_00.skel",
+    "atlas": "web_l2d/m058_c043_00_standing/c043_00.atlas",
+    "textures": [
+      "web_l2d/m058_c043_00_standing/c043_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c043 D Killer Wife/yor!!!!!!1.jpg"
+  },
+  {
+    "idx": 59,
+    "kind": "spine",
+    "slug": "m059_c102_00_aim",
+    "cCode": "c102_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Modded Skin Swap/c102_00_aim_gjopin_Maxwell",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Modded Skin Swap",
+    "fileName": "c102_00_aim_gjopin_Maxwell",
+    "skel": "web_l2d/m059_c102_00_aim/c102_aim_00.skel",
+    "atlas": "web_l2d/m059_c102_00_aim/c102_aim_00.atlas",
+    "textures": [
+      "web_l2d/m059_c102_00_aim/c102_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Preview/m00aim.jpg"
+  },
+  {
+    "idx": 60,
+    "kind": "spine",
+    "slug": "m060_c102_00_cover",
+    "cCode": "c102_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Modded Skin Swap/c102_00_cover_gjopin_Maxwell",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Modded Skin Swap",
+    "fileName": "c102_00_cover_gjopin_Maxwell",
+    "skel": "web_l2d/m060_c102_00_cover/c102_cover_00.skel",
+    "atlas": "web_l2d/m060_c102_00_cover/c102_cover_00.atlas",
+    "textures": [
+      "web_l2d/m060_c102_00_cover/c102_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Preview/m00aim.jpg"
+  },
+  {
+    "idx": 61,
+    "kind": "spine",
+    "slug": "m061_c102_00_standing",
+    "cCode": "c102_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Modded Skin Swap/c102_00_standing_gjopin_Maxwell",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Modded Skin Swap",
+    "fileName": "c102_00_standing_gjopin_Maxwell",
+    "skel": "web_l2d/m061_c102_00_standing/c102_00.skel",
+    "atlas": "web_l2d/m061_c102_00_standing/c102_00.atlas",
+    "textures": [
+      "web_l2d/m061_c102_00_standing/c102_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c102 Maxwell/Preview/m00aim.jpg"
+  },
+  {
+    "idx": 62,
+    "kind": "spine",
+    "slug": "m062_c162_00_aim",
+    "cCode": "c162_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Mod/c162_00_aim_gjopin_MiharaBondingChain",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Mod",
+    "fileName": "c162_00_aim_gjopin_MiharaBondingChain",
+    "skel": "web_l2d/m062_c162_00_aim/c162_aim_00.skel",
+    "atlas": "web_l2d/m062_c162_00_aim/c162_aim_00.atlas",
+    "textures": [
+      "web_l2d/m062_c162_00_aim/c162_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Preview/Screenshot 2025-05-02 154241.png"
+  },
+  {
+    "idx": 63,
+    "kind": "spine",
+    "slug": "m063_c162_00_cover",
+    "cCode": "c162_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Mod/c162_00_cover_gjopin_MiharaBondingChain",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Mod",
+    "fileName": "c162_00_cover_gjopin_MiharaBondingChain",
+    "skel": "web_l2d/m063_c162_00_cover/c162_cover_00.skel",
+    "atlas": "web_l2d/m063_c162_00_cover/c162_cover_00.atlas",
+    "textures": [
+      "web_l2d/m063_c162_00_cover/c162_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Preview/Screenshot 2025-05-02 154241.png"
+  },
+  {
+    "idx": 64,
+    "kind": "spine",
+    "slug": "m064_c162_00_standing",
+    "cCode": "c162_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Mod/c162_00_standing_gjopin_MiharaBondingChain",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Mod",
+    "fileName": "c162_00_standing_gjopin_MiharaBondingChain",
+    "skel": "web_l2d/m064_c162_00_standing/c162_00.skel",
+    "atlas": "web_l2d/m064_c162_00_standing/c162_00.atlas",
+    "textures": [
+      "web_l2d/m064_c162_00_standing/c162_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c162 Mihara Bonding Chain/Preview/Screenshot 2025-05-02 154241.png"
+  },
+  {
+    "idx": 65,
+    "kind": "spine",
+    "slug": "m065_c200_00_aim",
+    "cCode": "c200_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Mod/c200_00_aim_gjopin_Rupee",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Mod",
+    "fileName": "c200_00_aim_gjopin_Rupee",
+    "skel": "web_l2d/m065_c200_00_aim/c200_aim_00.skel",
+    "atlas": "web_l2d/m065_c200_00_aim/c200_aim_00.atlas",
+    "textures": [
+      "web_l2d/m065_c200_00_aim/c200_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Preview/r00aim.png"
+  },
+  {
+    "idx": 66,
+    "kind": "spine",
+    "slug": "m066_c200_00_cover",
+    "cCode": "c200_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Mod/c200_00_cover_gjopin_Rupee",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Mod",
+    "fileName": "c200_00_cover_gjopin_Rupee",
+    "skel": "web_l2d/m066_c200_00_cover/c200_cover_00.skel",
+    "atlas": "web_l2d/m066_c200_00_cover/c200_cover_00.atlas",
+    "textures": [
+      "web_l2d/m066_c200_00_cover/c200_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Preview/r00aim.png"
+  },
+  {
+    "idx": 67,
+    "kind": "spine",
+    "slug": "m067_c200_00_standing",
+    "cCode": "c200_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Mod/c200_00_standing_gjopin_Rupee",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Mod",
+    "fileName": "c200_00_standing_gjopin_Rupee",
+    "skel": "web_l2d/m067_c200_00_standing/c200_00.skel",
+    "atlas": "web_l2d/m067_c200_00_standing/c200_00.atlas",
+    "textures": [
+      "web_l2d/m067_c200_00_standing/c200_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c200 Rupee/Skin Swap/Preview/r00aim.png"
+  },
+  {
+    "idx": 68,
+    "kind": "spine",
+    "slug": "m068_c210_02_aim",
+    "cCode": "c210_02",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Mod/c210_02_aim_Exia No Panties",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Mod",
+    "fileName": "c210_02_aim_Exia No Panties",
+    "skel": "web_l2d/m068_c210_02_aim/c210_aim_02.skel",
+    "atlas": "web_l2d/m068_c210_02_aim/c210_aim_02.atlas",
+    "textures": [
+      "web_l2d/m068_c210_02_aim/c210_aim_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Preview/e02aim (1).jpg"
+  },
+  {
+    "idx": 69,
+    "kind": "spine",
+    "slug": "m069_c210_02_aim",
+    "cCode": "c210_02",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Mod/c210_02_aim_gjopin_Exia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Mod",
+    "fileName": "c210_02_aim_gjopin_Exia",
+    "skel": "web_l2d/m069_c210_02_aim/c210_aim_02.skel",
+    "atlas": "web_l2d/m069_c210_02_aim/c210_aim_02.atlas",
+    "textures": [
+      "web_l2d/m069_c210_02_aim/c210_aim_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Preview/e02aim (1).jpg"
+  },
+  {
+    "idx": 70,
+    "kind": "spine",
+    "slug": "m070_c210_02_cover",
+    "cCode": "c210_02",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Mod/c210_02_cover_gjopin_Exia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Mod",
+    "fileName": "c210_02_cover_gjopin_Exia",
+    "skel": "web_l2d/m070_c210_02_cover/c210_cover_02.skel",
+    "atlas": "web_l2d/m070_c210_02_cover/c210_cover_02.atlas",
+    "textures": [
+      "web_l2d/m070_c210_02_cover/c210_cover_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/02/Preview/e02aim (1).jpg"
+  },
+  {
+    "idx": 71,
+    "kind": "spine",
+    "slug": "m071_c210_00_aim",
+    "cCode": "c210_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod/c210_00_aim_gjopin_Exia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod",
+    "fileName": "c210_00_aim_gjopin_Exia",
+    "skel": "web_l2d/m071_c210_00_aim/c210_aim_00.skel",
+    "atlas": "web_l2d/m071_c210_00_aim/c210_aim_00.atlas",
+    "textures": [
+      "web_l2d/m071_c210_00_aim/c210_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Preview/e00aim (1).jpg"
+  },
+  {
+    "idx": 72,
+    "kind": "spine",
+    "slug": "m072_c210_00_aim",
+    "cCode": "c210_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod/c210_00_aim_gjopin_Exia No Panties",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod",
+    "fileName": "c210_00_aim_gjopin_Exia No Panties",
+    "skel": "web_l2d/m072_c210_00_aim/c210_aim_00.skel",
+    "atlas": "web_l2d/m072_c210_00_aim/c210_aim_00.atlas",
+    "textures": [
+      "web_l2d/m072_c210_00_aim/c210_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Preview/e00aim (1).jpg"
+  },
+  {
+    "idx": 73,
+    "kind": "spine",
+    "slug": "m073_c210_00_cover",
+    "cCode": "c210_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod/c210_00_cover_gjopin_Exia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod",
+    "fileName": "c210_00_cover_gjopin_Exia",
+    "skel": "web_l2d/m073_c210_00_cover/c210_cover_00.skel",
+    "atlas": "web_l2d/m073_c210_00_cover/c210_cover_00.atlas",
+    "textures": [
+      "web_l2d/m073_c210_00_cover/c210_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Preview/e00aim (1).jpg"
+  },
+  {
+    "idx": 74,
+    "kind": "spine",
+    "slug": "m074_c210_00_standing",
+    "cCode": "c210_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod/c210_00_standing_gjopin_Exia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Mod",
+    "fileName": "c210_00_standing_gjopin_Exia",
+    "skel": "web_l2d/m074_c210_00_standing/c210_00.skel",
+    "atlas": "web_l2d/m074_c210_00_standing/c210_00.atlas",
+    "textures": [
+      "web_l2d/m074_c210_00_standing/c210_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c210 Exia/Modded Skin Swap/Preview/e00aim (1).jpg"
+  },
+  {
+    "idx": 75,
+    "kind": "spine",
+    "slug": "m075_c222_00_aim",
+    "cCode": "c222_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c222 Scarlet/Black Shadow to base/Mod/c222_00_aim_gjopin_Scarlet",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c222 Scarlet/Black Shadow to base/Mod",
+    "fileName": "c222_00_aim_gjopin_Scarlet",
+    "skel": "web_l2d/m075_c222_00_aim/c222_aim_00.skel",
+    "atlas": "web_l2d/m075_c222_00_aim/c222_aim_00.atlas",
+    "textures": [
+      "web_l2d/m075_c222_00_aim/c222_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 76,
+    "kind": "spine",
+    "slug": "m076_c222_00_cover",
+    "cCode": "c222_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c222 Scarlet/Black Shadow to base/Mod/c222_00_cover_gjopin_Scarlet",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c222 Scarlet/Black Shadow to base/Mod",
+    "fileName": "c222_00_cover_gjopin_Scarlet",
+    "skel": "web_l2d/m076_c222_00_cover/c222_cover_00.skel",
+    "atlas": "web_l2d/m076_c222_00_cover/c222_cover_00.atlas",
+    "textures": [
+      "web_l2d/m076_c222_00_cover/c222_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 77,
+    "kind": "spine",
+    "slug": "m077_c222_00_standing",
+    "cCode": "c222_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c222 Scarlet/Black Shadow to base/Mod/c222_00_standing_gjopin_Scarlet",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c222 Scarlet/Black Shadow to base/Mod",
+    "fileName": "c222_00_standing_gjopin_Scarlet",
+    "skel": "web_l2d/m077_c222_00_standing/c222_00.skel",
+    "atlas": "web_l2d/m077_c222_00_standing/c222_00.atlas",
+    "textures": [
+      "web_l2d/m077_c222_00_standing/c222_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 78,
+    "kind": "spine",
+    "slug": "m078_c226_00_aim",
+    "cCode": "c226_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Mod/c226_00_aim_gjopin_Rapunzel Pure Grace",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Mod",
+    "fileName": "c226_00_aim_gjopin_Rapunzel Pure Grace",
+    "skel": "web_l2d/m078_c226_00_aim/c226_aim_00.skel",
+    "atlas": "web_l2d/m078_c226_00_aim/c226_aim_00.atlas",
+    "textures": [
+      "web_l2d/m078_c226_00_aim/c226_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Preview/rapunzelaim.jpg"
+  },
+  {
+    "idx": 79,
+    "kind": "spine",
+    "slug": "m079_c226_00_cover",
+    "cCode": "c226_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Mod/c226_00_cover_gjopin_Rapunzel Pure Grace",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Mod",
+    "fileName": "c226_00_cover_gjopin_Rapunzel Pure Grace",
+    "skel": "web_l2d/m079_c226_00_cover/c226_cover_00.skel",
+    "atlas": "web_l2d/m079_c226_00_cover/c226_cover_00.atlas",
+    "textures": [
+      "web_l2d/m079_c226_00_cover/c226_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Preview/rapunzelaim.jpg"
+  },
+  {
+    "idx": 80,
+    "kind": "spine",
+    "slug": "m080_c226_00_standing",
+    "cCode": "c226_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Mod/c226_00_standing_gjopin_Rapunzel Pure Grace",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Mod",
+    "fileName": "c226_00_standing_gjopin_Rapunzel Pure Grace",
+    "skel": "web_l2d/m080_c226_00_standing/c226_00.skel",
+    "atlas": "web_l2d/m080_c226_00_standing/c226_00.atlas",
+    "textures": [
+      "web_l2d/m080_c226_00_standing/c226_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c226 Rapunzel Pure Grace/Preview/rapunzelaim.jpg"
+  },
+  {
+    "idx": 81,
+    "kind": "spine",
+    "slug": "m081_c233_00_aim",
+    "cCode": "c233_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Modded Skin Swap/c233_00_aim_gjopin_Dorothy",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Modded Skin Swap",
+    "fileName": "c233_00_aim_gjopin_Dorothy",
+    "skel": "web_l2d/m081_c233_00_aim/c233_aim_00.skel",
+    "atlas": "web_l2d/m081_c233_00_aim/c233_aim_00.atlas",
+    "textures": [
+      "web_l2d/m081_c233_00_aim/c233_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Preview/d00aim.jpg"
+  },
+  {
+    "idx": 82,
+    "kind": "spine",
+    "slug": "m082_c233_00_cover",
+    "cCode": "c233_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Modded Skin Swap/c233_00_cover_gjopin_Dorothy",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Modded Skin Swap",
+    "fileName": "c233_00_cover_gjopin_Dorothy",
+    "skel": "web_l2d/m082_c233_00_cover/c233_cover_00.skel",
+    "atlas": "web_l2d/m082_c233_00_cover/c233_cover_00.atlas",
+    "textures": [
+      "web_l2d/m082_c233_00_cover/c233_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Preview/d00aim.jpg"
+  },
+  {
+    "idx": 83,
+    "kind": "spine",
+    "slug": "m083_c233_00_standing",
+    "cCode": "c233_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Modded Skin Swap/c233_00_standing_gjopin_Dorothy",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Modded Skin Swap",
+    "fileName": "c233_00_standing_gjopin_Dorothy",
+    "skel": "web_l2d/m083_c233_00_standing/c233_00.skel",
+    "atlas": "web_l2d/m083_c233_00_standing/c233_00.atlas",
+    "textures": [
+      "web_l2d/m083_c233_00_standing/c233_00.png",
+      "web_l2d/m083_c233_00_standing/c233_00_2.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c233 Dorothy/Preview/d00aim.jpg"
+  },
+  {
+    "idx": 84,
+    "kind": "spine",
+    "slug": "m084_c260_01_aim",
+    "cCode": "c260_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c260_01 Modernia/Mod/c260_01_aim_gjopin_Modernia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c260_01 Modernia/Mod",
+    "fileName": "c260_01_aim_gjopin_Modernia",
+    "skel": "web_l2d/m084_c260_01_aim/c260_aim_01.skel",
+    "atlas": "web_l2d/m084_c260_01_aim/c260_aim_01.atlas",
+    "textures": [
+      "web_l2d/m084_c260_01_aim/c260_aim_01.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c260_01 Modernia/Preview/m01aim.jpg"
+  },
+  {
+    "idx": 85,
+    "kind": "spine",
+    "slug": "m085_c260_01_cover",
+    "cCode": "c260_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c260_01 Modernia/Mod/c260_01_cover_gjopin_Modernia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c260_01 Modernia/Mod",
+    "fileName": "c260_01_cover_gjopin_Modernia",
+    "skel": "web_l2d/m085_c260_01_cover/c260_cover_01.skel",
+    "atlas": "web_l2d/m085_c260_01_cover/c260_cover_01.atlas",
+    "textures": [
+      "web_l2d/m085_c260_01_cover/c260_cover_01.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c260_01 Modernia/Preview/m01aim.jpg"
+  },
+  {
+    "idx": 86,
+    "kind": "spine",
+    "slug": "m086_c271_01_aim",
+    "cCode": "c271_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c271_01 Noir/Mod/c271_01_aim_gjopin_Noir",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c271_01 Noir/Mod",
+    "fileName": "c271_01_aim_gjopin_Noir",
+    "skel": "web_l2d/m086_c271_01_aim/c271_aim_01.skel",
+    "atlas": "web_l2d/m086_c271_01_aim/c271_aim_01.atlas",
+    "textures": [
+      "web_l2d/m086_c271_01_aim/c271_aim_01.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c271_01 Noir/Preview/n01aim.jpg"
+  },
+  {
+    "idx": 87,
+    "kind": "spine",
+    "slug": "m087_c280_00_aim",
+    "cCode": "c280_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Mod/c280_00_aim_gjopin_Rosanna",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Mod",
+    "fileName": "c280_00_aim_gjopin_Rosanna",
+    "skel": "web_l2d/m087_c280_00_aim/c280_aim_00.skel",
+    "atlas": "web_l2d/m087_c280_00_aim/c280_aim_00.atlas",
+    "textures": [
+      "web_l2d/m087_c280_00_aim/c280_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Preview/r00aim.jpg"
+  },
+  {
+    "idx": 88,
+    "kind": "spine",
+    "slug": "m088_c280_00_cover",
+    "cCode": "c280_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Mod/c280_00_cover_gjopin_Rosanna",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Mod",
+    "fileName": "c280_00_cover_gjopin_Rosanna",
+    "skel": "web_l2d/m088_c280_00_cover/c280_cover_00.skel",
+    "atlas": "web_l2d/m088_c280_00_cover/c280_cover_00.atlas",
+    "textures": [
+      "web_l2d/m088_c280_00_cover/c280_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Preview/r00aim.jpg"
+  },
+  {
+    "idx": 89,
+    "kind": "spine",
+    "slug": "m089_c280_00_standing",
+    "cCode": "c280_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Mod/c280_00_standing_gjopin_Rosanna",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Mod",
+    "fileName": "c280_00_standing_gjopin_Rosanna",
+    "skel": "web_l2d/m089_c280_00_standing/c280_00.skel",
+    "atlas": "web_l2d/m089_c280_00_standing/c280_00.atlas",
+    "textures": [
+      "web_l2d/m089_c280_00_standing/c280_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c280 Rosanna/Modded Skin Swap/Preview/r00aim.jpg"
+  },
+  {
+    "idx": 90,
+    "kind": "spine",
+    "slug": "m090_c281_00_aim",
+    "cCode": "c281_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/00/c281_00_aim_gjopin_MoranOff-DutyQueen",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/00",
+    "fileName": "c281_00_aim_gjopin_MoranOff-DutyQueen",
+    "skel": "web_l2d/m090_c281_00_aim/c281_aim_00.skel",
+    "atlas": "web_l2d/m090_c281_00_aim/c281_aim_00.atlas",
+    "textures": [
+      "web_l2d/m090_c281_00_aim/c281_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 91,
+    "kind": "spine",
+    "slug": "m091_c281_00_cover",
+    "cCode": "c281_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/00/c281_00_cover_gjopin_MoranOff-DutyQueen",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/00",
+    "fileName": "c281_00_cover_gjopin_MoranOff-DutyQueen",
+    "skel": "web_l2d/m091_c281_00_cover/c281_cover_00.skel",
+    "atlas": "web_l2d/m091_c281_00_cover/c281_cover_00.atlas",
+    "textures": [
+      "web_l2d/m091_c281_00_cover/c281_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 92,
+    "kind": "spine",
+    "slug": "m092_c281_00_standing",
+    "cCode": "c281_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/00/c281_00_standing_gjopin_MoranOff-DutyQueen",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/00",
+    "fileName": "c281_00_standing_gjopin_MoranOff-DutyQueen",
+    "skel": "web_l2d/m092_c281_00_standing/c281_00.skel",
+    "atlas": "web_l2d/m092_c281_00_standing/c281_00.atlas",
+    "textures": [
+      "web_l2d/m092_c281_00_standing/c281_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 93,
+    "kind": "spine",
+    "slug": "m093_c281_01_aim",
+    "cCode": "c281_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/01/c281_01_aim_gjopin_MoranOff-DutyQueen",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/01",
+    "fileName": "c281_01_aim_gjopin_MoranOff-DutyQueen",
+    "skel": "web_l2d/m093_c281_01_aim/c281_aim_01.skel",
+    "atlas": "web_l2d/m093_c281_01_aim/c281_aim_01.atlas",
+    "textures": [
+      "web_l2d/m093_c281_01_aim/c281_aim_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 94,
+    "kind": "spine",
+    "slug": "m094_c281_01_cover",
+    "cCode": "c281_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/01/c281_01_cover_gjopin_MoranOff-DutyQueen",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/01",
+    "fileName": "c281_01_cover_gjopin_MoranOff-DutyQueen",
+    "skel": "web_l2d/m094_c281_01_cover/c281_cover_01.skel",
+    "atlas": "web_l2d/m094_c281_01_cover/c281_cover_01.atlas",
+    "textures": [
+      "web_l2d/m094_c281_01_cover/c281_cover_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 95,
+    "kind": "spine",
+    "slug": "m095_c281_01_standing",
+    "cCode": "c281_01",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/01/c281_01_standing_gjopin_MoranOff-DutyQueen",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c281 Moran/Mod/01",
+    "fileName": "c281_01_standing_gjopin_MoranOff-DutyQueen",
+    "skel": "web_l2d/m095_c281_01_standing/c281_01.skel",
+    "atlas": "web_l2d/m095_c281_01_standing/c281_01.atlas",
+    "textures": [
+      "web_l2d/m095_c281_01_standing/c281_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 96,
+    "kind": "spine",
+    "slug": "m096_c314_00_standing",
+    "cCode": "c314_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c314 Soda Twinkling Bunny/Mod/c314_00_standing_gjopin&miagi_SodaBunny",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c314 Soda Twinkling Bunny/Mod",
+    "fileName": "c314_00_standing_gjopin&miagi_SodaBunny",
+    "skel": "web_l2d/m096_c314_00_standing/c314_00.skel",
+    "atlas": "web_l2d/m096_c314_00_standing/c314_00.atlas",
+    "textures": [
+      "web_l2d/m096_c314_00_standing/c314_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c314 Soda Twinkling Bunny/Preview/s00stand.jpg"
+  },
+  {
+    "idx": 97,
+    "kind": "spine",
+    "slug": "m097_c330_00_aim",
+    "cCode": "c330_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var1/c330_00_aim_gjopin_CrownVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var1",
+    "fileName": "c330_00_aim_gjopin_CrownVar1",
+    "skel": "web_l2d/m097_c330_00_aim/c330_aim_00.skel",
+    "atlas": "web_l2d/m097_c330_00_aim/c330_aim_00.atlas",
+    "textures": [
+      "web_l2d/m097_c330_00_aim/c330_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 98,
+    "kind": "spine",
+    "slug": "m098_c330_00_cover",
+    "cCode": "c330_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var1/c330_00_cover_gjopin_CrownVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var1",
+    "fileName": "c330_00_cover_gjopin_CrownVar1",
+    "skel": "web_l2d/m098_c330_00_cover/c330_cover_00.skel",
+    "atlas": "web_l2d/m098_c330_00_cover/c330_cover_00.atlas",
+    "textures": [
+      "web_l2d/m098_c330_00_cover/c330_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 99,
+    "kind": "spine",
+    "slug": "m099_c330_00_standing",
+    "cCode": "c330_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var1/c330_00_standing_gjopin_CrownVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var1",
+    "fileName": "c330_00_standing_gjopin_CrownVar1",
+    "skel": "web_l2d/m099_c330_00_standing/c330_00.skel",
+    "atlas": "web_l2d/m099_c330_00_standing/c330_00.atlas",
+    "textures": [
+      "web_l2d/m099_c330_00_standing/c330_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 100,
+    "kind": "spine",
+    "slug": "m100_c330_00_aim",
+    "cCode": "c330_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var2/c330_00_aim_gjopin_CrownVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var2",
+    "fileName": "c330_00_aim_gjopin_CrownVar2",
+    "skel": "web_l2d/m100_c330_00_aim/c330_aim_00.skel",
+    "atlas": "web_l2d/m100_c330_00_aim/c330_aim_00.atlas",
+    "textures": [
+      "web_l2d/m100_c330_00_aim/c330_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 101,
+    "kind": "spine",
+    "slug": "m101_c330_00_cover",
+    "cCode": "c330_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var2/c330_00_cover_gjopin_CrownVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var2",
+    "fileName": "c330_00_cover_gjopin_CrownVar2",
+    "skel": "web_l2d/m101_c330_00_cover/c330_cover_00.skel",
+    "atlas": "web_l2d/m101_c330_00_cover/c330_cover_00.atlas",
+    "textures": [
+      "web_l2d/m101_c330_00_cover/c330_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 102,
+    "kind": "spine",
+    "slug": "m102_c330_00_standing",
+    "cCode": "c330_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var2/c330_00_standing_gjopin_CrownVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/00/Mod/Var2",
+    "fileName": "c330_00_standing_gjopin_CrownVar2",
+    "skel": "web_l2d/m102_c330_00_standing/c330_00.skel",
+    "atlas": "web_l2d/m102_c330_00_standing/c330_00.atlas",
+    "textures": [
+      "web_l2d/m102_c330_00_standing/c330_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 103,
+    "kind": "spine",
+    "slug": "m103_c330_01_aim",
+    "cCode": "c330_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var1/c330_01_aim_gjopin_CrownVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var1",
+    "fileName": "c330_01_aim_gjopin_CrownVar1",
+    "skel": "web_l2d/m103_c330_01_aim/c330_aim_01.skel",
+    "atlas": "web_l2d/m103_c330_01_aim/c330_aim_01.atlas",
+    "textures": [
+      "web_l2d/m103_c330_01_aim/c330_aim_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 104,
+    "kind": "spine",
+    "slug": "m104_c330_01_cover",
+    "cCode": "c330_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var1/c330_01_cover_gjopin_CrownVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var1",
+    "fileName": "c330_01_cover_gjopin_CrownVar1",
+    "skel": "web_l2d/m104_c330_01_cover/c330_cover_01.skel",
+    "atlas": "web_l2d/m104_c330_01_cover/c330_cover_01.atlas",
+    "textures": [
+      "web_l2d/m104_c330_01_cover/c330_cover_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 105,
+    "kind": "spine",
+    "slug": "m105_c330_01_standing",
+    "cCode": "c330_01",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var1/c330_01_standing_gjopin_CrownVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var1",
+    "fileName": "c330_01_standing_gjopin_CrownVar1",
+    "skel": "web_l2d/m105_c330_01_standing/c330_01.skel",
+    "atlas": "web_l2d/m105_c330_01_standing/c330_01.atlas",
+    "textures": [
+      "web_l2d/m105_c330_01_standing/c330_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 106,
+    "kind": "spine",
+    "slug": "m106_c330_01_aim",
+    "cCode": "c330_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var2/c330_01_aim_gjopin_CrownVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var2",
+    "fileName": "c330_01_aim_gjopin_CrownVar2",
+    "skel": "web_l2d/m106_c330_01_aim/c330_aim_01.skel",
+    "atlas": "web_l2d/m106_c330_01_aim/c330_aim_01.atlas",
+    "textures": [
+      "web_l2d/m106_c330_01_aim/c330_aim_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 107,
+    "kind": "spine",
+    "slug": "m107_c330_01_cover",
+    "cCode": "c330_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var2/c330_01_cover_gjopin_CrownVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var2",
+    "fileName": "c330_01_cover_gjopin_CrownVar2",
+    "skel": "web_l2d/m107_c330_01_cover/c330_cover_01.skel",
+    "atlas": "web_l2d/m107_c330_01_cover/c330_cover_01.atlas",
+    "textures": [
+      "web_l2d/m107_c330_01_cover/c330_cover_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 108,
+    "kind": "spine",
+    "slug": "m108_c330_01_standing",
+    "cCode": "c330_01",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var2/c330_01_standing_gjopin_CrownVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c330 Crown/01/Mod/Var2",
+    "fileName": "c330_01_standing_gjopin_CrownVar2",
+    "skel": "web_l2d/m108_c330_01_standing/c330_01.skel",
+    "atlas": "web_l2d/m108_c330_01_standing/c330_01.atlas",
+    "textures": [
+      "web_l2d/m108_c330_01_standing/c330_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 109,
+    "kind": "spine",
+    "slug": "m109_c350_01_standing",
+    "cCode": "c350_01",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c350 Mast/01/c350_01_standing_gjopin_Mast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c350 Mast/01",
+    "fileName": "c350_01_standing_gjopin_Mast",
+    "skel": "web_l2d/m109_c350_01_standing/c350_01.skel",
+    "atlas": "web_l2d/m109_c350_01_standing/c350_01.atlas",
+    "textures": [
+      "web_l2d/m109_c350_01_standing/c350_01.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c350 Mast/01/m01sta.jpg"
+  },
+  {
+    "idx": 110,
+    "kind": "spine",
+    "slug": "m110_c350_00_aim",
+    "cCode": "c350_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Mod/c350_00_aim_gjopin_Mast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Mod",
+    "fileName": "c350_00_aim_gjopin_Mast",
+    "skel": "web_l2d/m110_c350_00_aim/c350_aim_00.skel",
+    "atlas": "web_l2d/m110_c350_00_aim/c350_aim_00.atlas",
+    "textures": [
+      "web_l2d/m110_c350_00_aim/c350_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Preview/m00aim.png"
+  },
+  {
+    "idx": 111,
+    "kind": "spine",
+    "slug": "m111_c350_00_cover",
+    "cCode": "c350_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Mod/c350_00_cover_gjopin_Mast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Mod",
+    "fileName": "c350_00_cover_gjopin_Mast",
+    "skel": "web_l2d/m111_c350_00_cover/c350_cover_00.skel",
+    "atlas": "web_l2d/m111_c350_00_cover/c350_cover_00.atlas",
+    "textures": [
+      "web_l2d/m111_c350_00_cover/c350_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Preview/m00aim.png"
+  },
+  {
+    "idx": 112,
+    "kind": "spine",
+    "slug": "m112_c350_00_standing",
+    "cCode": "c350_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Mod/c350_00_standing_gjopin_Mast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Mod",
+    "fileName": "c350_00_standing_gjopin_Mast",
+    "skel": "web_l2d/m112_c350_00_standing/c350_00.skel",
+    "atlas": "web_l2d/m112_c350_00_standing/c350_00.atlas",
+    "textures": [
+      "web_l2d/m112_c350_00_standing/c350_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c350 Mast/Preview/m00aim.png"
+  },
+  {
+    "idx": 113,
+    "kind": "spine",
+    "slug": "m113_c354_00_aim",
+    "cCode": "c354_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Mod/c354_00_aim_gjopin_MMast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Mod",
+    "fileName": "c354_00_aim_gjopin_MMast",
+    "skel": "web_l2d/m113_c354_00_aim/c354_aim_00.skel",
+    "atlas": "web_l2d/m113_c354_00_aim/c354_aim_00.atlas",
+    "textures": [
+      "web_l2d/m113_c354_00_aim/c354_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Preview/Screenshot 2025-02-07 215140.png"
+  },
+  {
+    "idx": 114,
+    "kind": "spine",
+    "slug": "m114_c354_00_cover",
+    "cCode": "c354_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Mod/c354_00_cover_gjopin_MMast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Mod",
+    "fileName": "c354_00_cover_gjopin_MMast",
+    "skel": "web_l2d/m114_c354_00_cover/c354_cover_00.skel",
+    "atlas": "web_l2d/m114_c354_00_cover/c354_cover_00.atlas",
+    "textures": [
+      "web_l2d/m114_c354_00_cover/c354_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Preview/Screenshot 2025-02-07 215140.png"
+  },
+  {
+    "idx": 115,
+    "kind": "spine",
+    "slug": "m115_c354_00_standing",
+    "cCode": "c354_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Mod/c354_00_standing_gjopin_MMast",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Mod",
+    "fileName": "c354_00_standing_gjopin_MMast",
+    "skel": "web_l2d/m115_c354_00_standing/c354_00.skel",
+    "atlas": "web_l2d/m115_c354_00_standing/c354_00.atlas",
+    "textures": [
+      "web_l2d/m115_c354_00_standing/c354_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c354 Mast Romantic Maid/Preview/Screenshot 2025-02-07 215140.png"
+  },
+  {
+    "idx": 116,
+    "kind": "spine",
+    "slug": "m116_c412_00_aim",
+    "cCode": "c412_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c412 Trina/Mod/c412_00_aim_gjopin_Trina",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c412 Trina/Mod",
+    "fileName": "c412_00_aim_gjopin_Trina",
+    "skel": "web_l2d/m116_c412_00_aim/c412_aim_00.skel",
+    "atlas": "web_l2d/m116_c412_00_aim/c412_aim_00.atlas",
+    "textures": [
+      "web_l2d/m116_c412_00_aim/c412_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c412 Trina/Preview/Screenshot 2025-03-13 001259.png"
+  },
+  {
+    "idx": 117,
+    "kind": "spine",
+    "slug": "m117_c451_01_aim",
+    "cCode": "c451_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c451_01 Tia/Mod/c451_01_aim_gjopin_Tia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c451_01 Tia/Mod",
+    "fileName": "c451_01_aim_gjopin_Tia",
+    "skel": "web_l2d/m117_c451_01_aim/c451_aim_01.skel",
+    "atlas": "web_l2d/m117_c451_01_aim/c451_aim_01.atlas",
+    "textures": [
+      "web_l2d/m117_c451_01_aim/c451_aim_01.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c451_01 Tia/Preview/t01aim.jpg"
+  },
+  {
+    "idx": 118,
+    "kind": "spine",
+    "slug": "m118_c451_01_cover",
+    "cCode": "c451_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c451_01 Tia/Mod/c451_01_cover_gjopin_Tia",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c451_01 Tia/Mod",
+    "fileName": "c451_01_cover_gjopin_Tia",
+    "skel": "web_l2d/m118_c451_01_cover/c451_cover_01.skel",
+    "atlas": "web_l2d/m118_c451_01_cover/c451_cover_01.atlas",
+    "textures": [
+      "web_l2d/m118_c451_01_cover/c451_cover_01.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c451_01 Tia/Preview/t01aim.jpg"
+  },
+  {
+    "idx": 119,
+    "kind": "spine",
+    "slug": "m119_c500_00_aim",
+    "cCode": "c500_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod/c500_00_aim_gjopin_Elegg",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod",
+    "fileName": "c500_00_aim_gjopin_Elegg",
+    "skel": "web_l2d/m119_c500_00_aim/c500_aim_00.skel",
+    "atlas": "web_l2d/m119_c500_00_aim/c500_aim_00.atlas",
+    "textures": [
+      "web_l2d/m119_c500_00_aim/c500_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Preview/e00aim.png"
+  },
+  {
+    "idx": 120,
+    "kind": "spine",
+    "slug": "m120_c500_00_cover",
+    "cCode": "c500_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod/c500_00_cover_gjopin_Elegg",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod",
+    "fileName": "c500_00_cover_gjopin_Elegg",
+    "skel": "web_l2d/m120_c500_00_cover/c500_cover_00.skel",
+    "atlas": "web_l2d/m120_c500_00_cover/c500_cover_00.atlas",
+    "textures": [
+      "web_l2d/m120_c500_00_cover/c500_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Preview/e00aim.png"
+  },
+  {
+    "idx": 121,
+    "kind": "spine",
+    "slug": "m121_c500_00_standing",
+    "cCode": "c500_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod/c500_00_standing_gjopin_EleggVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod",
+    "fileName": "c500_00_standing_gjopin_EleggVar1",
+    "skel": "web_l2d/m121_c500_00_standing/c500_00.skel",
+    "atlas": "web_l2d/m121_c500_00_standing/c500_00.atlas",
+    "textures": [
+      "web_l2d/m121_c500_00_standing/c500_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Preview/e00aim.png"
+  },
+  {
+    "idx": 122,
+    "kind": "spine",
+    "slug": "m122_c500_00_standing",
+    "cCode": "c500_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod/c500_00_standing_gjopin_EleggVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Mod",
+    "fileName": "c500_00_standing_gjopin_EleggVar2",
+    "skel": "web_l2d/m122_c500_00_standing/c500_00.skel",
+    "atlas": "web_l2d/m122_c500_00_standing/c500_00.atlas",
+    "textures": [
+      "web_l2d/m122_c500_00_standing/c500_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c500 Elegg/Preview/e00aim.png"
+  },
+  {
+    "idx": 123,
+    "kind": "spine",
+    "slug": "m123_c511_00_aim",
+    "cCode": "c511_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Mod/c511_00_aim_gjopin_Cinderella",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Mod",
+    "fileName": "c511_00_aim_gjopin_Cinderella",
+    "skel": "web_l2d/m123_c511_00_aim/c511_aim_00.skel",
+    "atlas": "web_l2d/m123_c511_00_aim/c511_aim_00.atlas",
+    "textures": [
+      "web_l2d/m123_c511_00_aim/c511_aim_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Preview/cinderellaaim.jpg"
+  },
+  {
+    "idx": 124,
+    "kind": "spine",
+    "slug": "m124_c511_00_cover",
+    "cCode": "c511_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Mod/c511_00_cover_gjopin_Cinderella",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Mod",
+    "fileName": "c511_00_cover_gjopin_Cinderella",
+    "skel": "web_l2d/m124_c511_00_cover/c511_cover_00.skel",
+    "atlas": "web_l2d/m124_c511_00_cover/c511_cover_00.atlas",
+    "textures": [
+      "web_l2d/m124_c511_00_cover/c511_cover_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Preview/cinderellaaim.jpg"
+  },
+  {
+    "idx": 125,
+    "kind": "spine",
+    "slug": "m125_c511_00_standing",
+    "cCode": "c511_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Mod/c511_00_standing_gjopin_Cinderella",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Mod",
+    "fileName": "c511_00_standing_gjopin_Cinderella",
+    "skel": "web_l2d/m125_c511_00_standing/c511_00.skel",
+    "atlas": "web_l2d/m125_c511_00_standing/c511_00.atlas",
+    "textures": [
+      "web_l2d/m125_c511_00_standing/c511_00.png",
+      "web_l2d/m125_c511_00_standing/c511_00_2.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c511 Cinderella/Preview/cinderellaaim.jpg"
+  },
+  {
+    "idx": 126,
+    "kind": "spine",
+    "slug": "m126_c513_00_aim",
+    "cCode": "c513_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/00/c513_00_aim_gjopin_LittleMermaidAbyssFlowerSWAP",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/00",
+    "fileName": "c513_00_aim_gjopin_LittleMermaidAbyssFlowerSWAP",
+    "skel": "web_l2d/m126_c513_00_aim/c513_aim_00.skel",
+    "atlas": "web_l2d/m126_c513_00_aim/c513_aim_00.atlas",
+    "textures": [
+      "web_l2d/m126_c513_00_aim/c513_aim_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 127,
+    "kind": "spine",
+    "slug": "m127_c513_00_cover",
+    "cCode": "c513_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/00/c513_00_cover_gjopin_LittleMermaidAbyssFlowerSWAP",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/00",
+    "fileName": "c513_00_cover_gjopin_LittleMermaidAbyssFlowerSWAP",
+    "skel": "web_l2d/m127_c513_00_cover/c513_cover_00.skel",
+    "atlas": "web_l2d/m127_c513_00_cover/c513_cover_00.atlas",
+    "textures": [
+      "web_l2d/m127_c513_00_cover/c513_cover_00.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 128,
+    "kind": "spine",
+    "slug": "m128_c513_00_standing",
+    "cCode": "c513_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/00/c513_00_standing_gjopin_LittleMermaidAbyssFlowerSWAP",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/00",
+    "fileName": "c513_00_standing_gjopin_LittleMermaidAbyssFlowerSWAP",
+    "skel": "web_l2d/m128_c513_00_standing/c513_01.skel",
+    "atlas": "web_l2d/m128_c513_00_standing/c513_01.atlas",
+    "textures": [
+      "web_l2d/m128_c513_00_standing/c513_01_2.png",
+      "web_l2d/m128_c513_00_standing/c513_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 129,
+    "kind": "spine",
+    "slug": "m129_c513_01_aim",
+    "cCode": "c513_01",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/01/c513_01_aim_gjopin_LittleMermaidAbyssFlower",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/01",
+    "fileName": "c513_01_aim_gjopin_LittleMermaidAbyssFlower",
+    "skel": "web_l2d/m129_c513_01_aim/c513_aim_01.skel",
+    "atlas": "web_l2d/m129_c513_01_aim/c513_aim_01.atlas",
+    "textures": [
+      "web_l2d/m129_c513_01_aim/c513_aim_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 130,
+    "kind": "spine",
+    "slug": "m130_c513_01_cover",
+    "cCode": "c513_01",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/01/c513_01_cover_gjopin_LittleMermaidAbyssFlower",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c513 Little Mermaid/Mod/01",
+    "fileName": "c513_01_cover_gjopin_LittleMermaidAbyssFlower",
+    "skel": "web_l2d/m130_c513_01_cover/c513_cover_01.skel",
+    "atlas": "web_l2d/m130_c513_01_cover/c513_cover_01.atlas",
+    "textures": [
+      "web_l2d/m130_c513_01_cover/c513_cover_01.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 131,
+    "kind": "spine",
+    "slug": "m131_c831_00_standing",
+    "cCode": "c831_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c831 Rei/00/c831_00_standing_gjopin_ReiVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c831 Rei/00",
+    "fileName": "c831_00_standing_gjopin_ReiVar1",
+    "skel": "web_l2d/m131_c831_00_standing/c831_00.skel",
+    "atlas": "web_l2d/m131_c831_00_standing/c831_00.atlas",
+    "textures": [
+      "web_l2d/m131_c831_00_standing/c831_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c831 Rei/Preview/r02stav1.png"
+  },
+  {
+    "idx": 132,
+    "kind": "spine",
+    "slug": "m132_c831_00_standing",
+    "cCode": "c831_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c831 Rei/00/c831_00_standing_gjopin_ReiVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c831 Rei/00",
+    "fileName": "c831_00_standing_gjopin_ReiVar2",
+    "skel": "web_l2d/m132_c831_00_standing/c831_00.skel",
+    "atlas": "web_l2d/m132_c831_00_standing/c831_00.atlas",
+    "textures": [
+      "web_l2d/m132_c831_00_standing/c831_00.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c831 Rei/Preview/r02stav1.png"
+  },
+  {
+    "idx": 133,
+    "kind": "spine",
+    "slug": "m133_c831_02_standing",
+    "cCode": "c831_02",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c831 Rei/02/c831_02_standing_gjopin_ReiVar1",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c831 Rei/02",
+    "fileName": "c831_02_standing_gjopin_ReiVar1",
+    "skel": "web_l2d/m133_c831_02_standing/c831_02.skel",
+    "atlas": "web_l2d/m133_c831_02_standing/c831_02.atlas",
+    "textures": [
+      "web_l2d/m133_c831_02_standing/c831_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c831 Rei/Preview/r02stav1.png"
+  },
+  {
+    "idx": 134,
+    "kind": "spine",
+    "slug": "m134_c831_02_standing",
+    "cCode": "c831_02",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c831 Rei/02/c831_02_standing_gjopin_ReiVar2",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c831 Rei/02",
+    "fileName": "c831_02_standing_gjopin_ReiVar2",
+    "skel": "web_l2d/m134_c831_02_standing/c831_02.skel",
+    "atlas": "web_l2d/m134_c831_02_standing/c831_02.atlas",
+    "textures": [
+      "web_l2d/m134_c831_02_standing/c831_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c831 Rei/Preview/r02stav1.png"
+  },
+  {
+    "idx": 135,
+    "kind": "spine",
+    "slug": "m135_c850_00_aim",
+    "cCode": "c850_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/00/c850_00_aim_gjopin_EveNeurolinkSuit",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/00",
+    "fileName": "c850_00_aim_gjopin_EveNeurolinkSuit",
+    "skel": "web_l2d/m135_c850_00_aim/c850_aim_02.skel",
+    "atlas": "web_l2d/m135_c850_00_aim/c850_aim_02.atlas",
+    "textures": [
+      "web_l2d/m135_c850_00_aim/c850_aim_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/Preview/Screenshot 2025-06-15 205015.png"
+  },
+  {
+    "idx": 136,
+    "kind": "spine",
+    "slug": "m136_c850_00_cover",
+    "cCode": "c850_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/00/c850_00_cover_gjopin_EveNeurolinkSuit",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/00",
+    "fileName": "c850_00_cover_gjopin_EveNeurolinkSuit",
+    "skel": "web_l2d/m136_c850_00_cover/c850_cover_02.skel",
+    "atlas": "web_l2d/m136_c850_00_cover/c850_cover_02.atlas",
+    "textures": [
+      "web_l2d/m136_c850_00_cover/c850_cover_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/Preview/Screenshot 2025-06-15 205015.png"
+  },
+  {
+    "idx": 137,
+    "kind": "spine",
+    "slug": "m137_c850_00_standing",
+    "cCode": "c850_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/00/c850_00_standing_gjopin_EveNeurolinkSuit",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/00",
+    "fileName": "c850_00_standing_gjopin_EveNeurolinkSuit",
+    "skel": "web_l2d/m137_c850_00_standing/c850_02.skel",
+    "atlas": "web_l2d/m137_c850_00_standing/c850_02.atlas",
+    "textures": [
+      "web_l2d/m137_c850_00_standing/c850_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/Preview/Screenshot 2025-06-15 205015.png"
+  },
+  {
+    "idx": 138,
+    "kind": "spine",
+    "slug": "m138_c850_02_aim",
+    "cCode": "c850_02",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/02/c850_02_aim_gjopin_EveNeurolinkSuit",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/02",
+    "fileName": "c850_02_aim_gjopin_EveNeurolinkSuit",
+    "skel": "web_l2d/m138_c850_02_aim/c850_aim_02.skel",
+    "atlas": "web_l2d/m138_c850_02_aim/c850_aim_02.atlas",
+    "textures": [
+      "web_l2d/m138_c850_02_aim/c850_aim_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/Preview/Screenshot 2025-06-15 205015.png"
+  },
+  {
+    "idx": 139,
+    "kind": "spine",
+    "slug": "m139_c850_02_standing",
+    "cCode": "c850_02",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/02/c850_02_standing_gjopin_EveNeurolinkSuit",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/02",
+    "fileName": "c850_02_standing_gjopin_EveNeurolinkSuit",
+    "skel": "web_l2d/m139_c850_02_standing/c850_02.skel",
+    "atlas": "web_l2d/m139_c850_02_standing/c850_02.atlas",
+    "textures": [
+      "web_l2d/m139_c850_02_standing/c850_02.png"
+    ],
+    "preview": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Neurolink Suit/Preview/Screenshot 2025-06-15 205015.png"
+  },
+  {
+    "idx": 140,
+    "kind": "spine",
+    "slug": "m140_c850_00_aim",
+    "cCode": "c850_00",
+    "pose": "aim",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Skin suit to base skin swap/c850_00_aim_gjopin_EveGachaSkinSwap",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Skin suit to base skin swap",
+    "fileName": "c850_00_aim_gjopin_EveGachaSkinSwap",
+    "skel": "web_l2d/m140_c850_00_aim/c850_aim_03.skel",
+    "atlas": "web_l2d/m140_c850_00_aim/c850_aim_03.atlas",
+    "textures": [
+      "web_l2d/m140_c850_00_aim/c850_aim_03.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 141,
+    "kind": "spine",
+    "slug": "m141_c850_00_cover",
+    "cCode": "c850_00",
+    "pose": "cover",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Skin suit to base skin swap/c850_00_cover_gjopin_EveGachaSkinSwap",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Skin suit to base skin swap",
+    "fileName": "c850_00_cover_gjopin_EveGachaSkinSwap",
+    "skel": "web_l2d/m141_c850_00_cover/c850_cover_03.skel",
+    "atlas": "web_l2d/m141_c850_00_cover/c850_cover_03.atlas",
+    "textures": [
+      "web_l2d/m141_c850_00_cover/c850_cover_03.png"
+    ],
+    "preview": ""
+  },
+  {
+    "idx": 142,
+    "kind": "spine",
+    "slug": "m142_c850_00_standing",
+    "cCode": "c850_00",
+    "pose": "standing",
+    "ver": "4.1",
+    "srcRel": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Skin suit to base skin swap/c850_00_standing_gjopin_EveGachaSkinSwap",
+    "folder": "gjopin_mods/gjopin pc nikke mods/c850 EVE/Skin suit to base skin swap",
+    "fileName": "c850_00_standing_gjopin_EveGachaSkinSwap",
+    "skel": "web_l2d/m142_c850_00_standing/c850_03.skel",
+    "atlas": "web_l2d/m142_c850_00_standing/c850_03.atlas",
+    "textures": [
+      "web_l2d/m142_c850_00_standing/c850_03.png"
+    ],
+    "preview": ""
+  }
+]
